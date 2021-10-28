@@ -3,9 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1421875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_add.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_baseline_add_task_24.xml" value="0.1421875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.1421875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_delete.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_edit.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_more.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_warning.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/shape_background.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_new_task.xml" value="0.1" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/recyclerview_item.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_new_task.xml" value="0.536" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
       </map>
     </option>
   </component>
