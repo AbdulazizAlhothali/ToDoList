@@ -27,6 +27,7 @@ class ToDoRecyclerAdapter(private val userList: MutableList<ToDo>) : RecyclerVie
         userList.add(task)
         notifyItemInserted(0)
     }
+
 }
 
 class CustomAdapter (itemView: View) : RecyclerView.ViewHolder(itemView)  {

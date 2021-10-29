@@ -7,7 +7,6 @@ import android.icu.util.Calendar
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
-import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageButton
 import android.widget.TextView
@@ -21,7 +20,7 @@ class NewTaskActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_new_task)
         myTask= findViewById(R.id.etTask)
-        dateTask= findViewById(R.id.tvDate)
+        dateTask= findViewById(R.id.tvEditDate)
         addTask= findViewById(R.id.button_add)
         val cal = Calendar.getInstance()
         val day = cal.get(Calendar.DAY_OF_MONTH)
@@ -37,7 +36,7 @@ class NewTaskActivity : AppCompatActivity() {
 
 
         addTask.setOnClickListener {
-            val newTask= ToDo(myTask.text.toString(),dateTask.text.toString())
+            val newTask= ToDo(1,myTask.text.toString(),dateTask.text.toString())
             val intentTask = Intent()
             if (TextUtils.isEmpty(myTask.text)) {
                 setResult(Activity.RESULT_CANCELED, intentTask)

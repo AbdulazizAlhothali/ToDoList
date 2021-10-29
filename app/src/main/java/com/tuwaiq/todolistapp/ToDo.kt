@@ -7,4 +7,6 @@ import kotlinx.android.parcel.Parcelize
 
 @Entity(tableName = "task_table")
 @Parcelize
-data class ToDo (@PrimaryKey val task: String, val date: String):Parcelable
+data class ToDo (@PrimaryKey (autoGenerate = true) val id: Int = 1,val task: String, val date: String, var completed: Boolean = false):Parcelable
+
+

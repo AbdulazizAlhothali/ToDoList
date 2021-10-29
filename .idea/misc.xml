@@ -14,9 +14,11 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_more.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/ic_warning.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/drawable/shape_background.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_edit.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/activity_new_task.xml" value="0.536" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/edit_layout.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/layout/recyclerview_item.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ToDoListApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
       </map>
