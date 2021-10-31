@@ -21,4 +21,4 @@ cardview contain created date, the task and due date and checkbox to click if yo
 <img src="https://user-images.githubusercontent.com/91476864/139569435-6bbf2283-a30e-4c4e-9d4d-03b70198500b.png" width="260">
 
 ### screenshot_2
-<img src="<img src="https://user-images.githubusercontent.com/91476864/139569435-6bbf2283-a30e-4c4e-9d4d-03b70198500b.png" width="260">" width="260">
+<img src="<img src="https://user-images.githubusercontent.com/91476864/139569626-9fa38059-2042-4e7e-ba9e-276cee5cddba.png" width="260">" width="260">
