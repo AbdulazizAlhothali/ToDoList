@@ -18,10 +18,7 @@ cardview contain created date, the task and due date and checkbox to click if yo
 ## :camera_flash: Screenshots
 ---
 ### screenshot_1
-<src/main/res/drawable/screenshot_1.png>
+<img src="https://user-images.githubusercontent.com/91476864/139569435-6bbf2283-a30e-4c4e-9d4d-03b70198500b.png" width="260">
 
 ### screenshot_2
-<src/main/res/drawable/screenshot_1635631734.png>
-
-### screenshot_3
-<src/main/res/drawable/screenshot_1635631750.png>
+<img src="<img src="https://user-images.githubusercontent.com/91476864/139569435-6bbf2283-a30e-4c4e-9d4d-03b70198500b.png" width="260">" width="260">
