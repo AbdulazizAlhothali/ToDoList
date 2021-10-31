@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -10,8 +9,8 @@
 
 
     <LinearLayout
-        android:layout_width="385dp"
-        android:layout_height="505dp"
+        android:layout_width="540dp"
+        android:layout_height="292dp"
         android:layout_margin="16dp"
         android:orientation="vertical">
 
@@ -23,52 +22,36 @@
             android:elevation="15dp"
             android:gravity="center"
             android:padding="10dp"
-            android:text="New Task"
+            android:text="Edit Task"
             android:textColor="@color/white"
             android:textSize="19sp"
             android:textStyle="bold" />
 
         <TextView
-
-
-            android:layout_width="208dp"
-            android:layout_height="wrap_content"
+            android:id="@+id/tvNewCurrentDate"
+            android:layout_width="237dp"
+            android:layout_height="30dp"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="5dp"
             android:layout_marginRight="15dp"
-
-            android:padding="9dp"
-            android:text="Created Date:"
-            android:textColor="@color/purple_500"
-            android:textSize="18sp"
-            android:textStyle="bold" />
-
-        <TextView
-
-
-            android:id="@+id/current_time"
-            android:layout_width="242dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="15dp"
-            android:layout_marginTop="5dp"
-            android:layout_marginRight="15dp"
-
             android:layout_marginBottom="15dp"
+            android:visibility="gone"
+
             android:padding="15dp"
             android:textColor="@color/purple_500"
             android:textSize="18sp"
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/etTask"
-            android:layout_width="match_parent"
+            android:id="@+id/newEditTask"
+            android:layout_width="495dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="5dp"
             android:background="@drawable/shape_background"
-            android:hint="write your task"
+            android:hint="task"
             android:inputType="textPersonName"
             android:padding="15dp"
             android:textColor="@color/purple_500"
@@ -76,9 +59,9 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/et_desc"
-            android:layout_width="353dp"
-            android:layout_height="107dp"
+            android:id="@+id/new_desc"
+            android:layout_width="506dp"
+            android:layout_height="70dp"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="15dp"
@@ -93,15 +76,15 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/tvEditDate"
-            android:layout_width="match_parent"
+            android:id="@+id/newEditDate"
+            android:layout_width="472dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="5dp"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="15dp"
             android:background="@drawable/shape_background"
-            android:hint="dd/MM/yyyy "
+            android:hint="DD/MM/YYYY"
             android:padding="15dp"
             android:textColor="@color/purple_500"
             android:textSize="18sp"
@@ -109,12 +92,5 @@
 
 
     </LinearLayout>
-
-    <ImageButton
-        android:id="@+id/button_add"
-        android:layout_width="96dp"
-        android:layout_height="67dp"
-        android:background="?android:selectableItemBackground"
-        app:srcCompat="@drawable/add_244" />
 
 </LinearLayout>
