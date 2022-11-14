@@ -14,6 +14,12 @@ This is my application todolist to add tasks, I learned how to use Room database
 ---
 cardview contain created date, the task and due date and checkbox to click if you finished the task
 
+### :bulb: Libraries Used  
+
+-Room Database
+
+-Coroutines
+
 
 ## :camera_flash: Screenshots
 ---
